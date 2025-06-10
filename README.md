@@ -26,6 +26,6 @@ The dataset includes detailed records of accidents, with information on location
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-
+I would like to note that the DATASET IS TOO LARGE. I WILL PROVIDE THE LINK____ https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 
